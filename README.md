@@ -7,6 +7,8 @@ FUGUE (_<ins>F</ins>ungal <ins>U</ins>niverse <ins>G</ins>enome <ins>U</ins>nifi
 1. Utilize [DIAMOND](https://github.com/bbuchfink/diamond) to create orthogroups for your genes of interest
 1. Create the required input for ALLEGRO
 
+Note that you do NOT need to use FUGUE to replicate the results shown in the ALLEGRO publication. All data used in our experiments are provided on the ALLEGRO repository and on Zenodo. This repository shows you how we did it, but we provide you with the data we used.
+
 # Documentation
 You may find the documentation for FUGUE at its [GitHub Wiki](https://github.com/ucrbioinfo/fugue/wiki).
 
